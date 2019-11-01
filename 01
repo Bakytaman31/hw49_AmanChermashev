@@ -1,0 +1,8 @@
+/progects$ mkdir my_progect
+/progects$ cd my_progect
+/progects/my_progect$ mkdir directory1 directory2 directory3
+/progects/my_progect$ cd directory1
+/progects/my_progect/directory1$ mkdir subdirectory1
+/progects/my_progect/directory1$ cd ..
+/progects/my_progect$ cd directory3
+/progects/my_progect/directory3$ mkdir subdirectory3
